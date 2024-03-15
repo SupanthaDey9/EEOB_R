@@ -1,0 +1,12 @@
+The code was good! I didn't find mistakes. But some nitpicks:  
+  -for loop using was fine, but as the assisgnment suggested, finding other methods instead of foor loop would be better,
+  since they take a lot of time in R.
+    -subset1 $ subset2 appeared repeatedly, could've named something differently for better understanding.
+      -Loading the data from original source will be easier to reproduce the results. like 
+       read. delim(https://github.com/EEOB-BioData/BCB546_Spring2024/blob/main/assignments/UNIX_Assignment/fang_et_al_genotypes.txt)
+       I did the same mistake too.
+
+        
+
+
+
